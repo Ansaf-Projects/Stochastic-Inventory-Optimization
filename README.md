@@ -3,7 +3,7 @@
 A data-driven supply chain model built to replace static inventory planning with a dynamic, stochastic framework. This project simulates 5 years of daily operations, quantifying the risk of both erratic customer demand and supplier lead-time delays to calculate an optimized, 30-day rolling Reorder Point (ROP).
 
 ## Tech Stack
-
+[📊 Click Here to View the Interactive Excel Dashboard (Google Drive)](https://csciitd-my.sharepoint.com/:x:/g/personal/me2240205_iitd_ac_in/IQAQmjCFdCSUSrVOvKpbCUL6Acs4GtNLfJsvyObZd3eTy2A?e=hAhVpE)
 Python (Pandas, NumPy): Engineered the simulation engine and calculated daily rolling volatility metrics.
 
 Excel & Power Query: Automated the data pipeline to feed a dynamic, stakeholder-facing visual dashboard.
