@@ -19,8 +19,5 @@ $$\sigma_{dL} = \sqrt{\mu_L \sigma_d^2 + \mu_d^2 \sigma_L^2}$$
 
 Applied a 95% Service Level Z-score (1.645) to this combined volatility to generate a robust, mathematically defendable Safety Stock buffer.
 
----
-*Note: Screenshot of the interactive dashboard below.*
 
-![Dashboard Screenshot](PASTE_IMAGE_LINK_OR_DRAG_AND_DROP_IMAGE_HERE)
 
