@@ -22,5 +22,5 @@ Applied a 95% Service Level Z-score (1.645) to this combined volatility to gener
 ---
 *Note: Screenshot of the interactive dashboard below.*
 
-![Dashboard Screenshot](https://1drv.ms/i/c/4b02c506aff1c048/IQBymjPC-tFcQKAXkJxexJU0Aei7fFgbHaPOaeTiIBPjL_E?e=TfJp2v)
+![Dashboard Screenshot](PASTE_IMAGE_LINK_OR_DRAG_AND_DROP_IMAGE_HERE)
 
